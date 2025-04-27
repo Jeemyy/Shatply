@@ -61,7 +61,7 @@ nav .links {
   line-height: 80px;
   margin-right: 40px;
   cursor: pointer;
-  display: none; /* مبدئيا مخفي */
+  display: none; 
 }
 
 #check {
@@ -550,7 +550,6 @@ body.dark .tag {
   color: #008812; 
 }
 
-/* Dark mode */
 body.dark .contact-link {
   color: #9ca3af; 
 }
